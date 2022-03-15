@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{61E1884A-5E48-4AA1-9EF6-A794D5DA6E85}|Default">
+  <MonoDevelop.Ide.ItemProperties.Bookstore PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Bookstore/Pages/Admin/Index.cshtml">
+    <Files>
+      <File FileName="Bookstore/Models/AppIdentityDBContext.cs" Line="15" Column="2" />
+      <File FileName="Bookstore/appsettings.json" />
+      <File FileName="Bookstore/Startup.cs" />
+      <File FileName="Bookstore/Models/IdentitySeedData.cs" />
+      <File FileName="Bookstore/Models/ViewModels/LoginModel.cs" />
+      <File FileName="Bookstore/Views/Account/Login.cshtml" />
+      <File FileName="Bookstore/Views/Shared/_Layout.cshtml" />
+      <File FileName="Bookstore/Controllers/AccountController.cs" />
+      <File FileName="Bookstore/Pages/Admin/Index.cshtml" Line="6" Column="1" />
+      <File FileName="Bookstore/Pages/Admin/AdminLayout.razor" />
+      <File FileName="Bookstore/Pages/Cart.cshtml" />
+      <File FileName="Bookstore/Pages/_CartLayout.cshtml" />
+      <File FileName="Bookstore/Pages/Confirmation.cshtml" />
+      <File FileName="Bookstore/Pages/Admin/OrderTable.razor" />
+      <File FileName="Bookstore/Pages/Admin/Orders.razor" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Bookstore" expanded="True">
+            <Node name="Bookstore" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Admin" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
